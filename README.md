@@ -1,3 +1,3 @@
 # user-s-progression-model
 
-[My image](/User's progression model.png)
+[My image](user-s-progression-model/User's progression model.png/User's progression model.png)
