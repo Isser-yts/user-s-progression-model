@@ -1,3 +1,3 @@
 # user-s-progression-model
 
-[My image](/user-s-progression-model/User's progression model.png/User's progression model.png?raw=true)
+[My image](https://github.com/Isser-yts/user-s-progression-model/User's progression model.png?raw=true)
